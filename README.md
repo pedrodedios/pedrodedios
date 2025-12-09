@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**pedrodedios/pedrodedios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - I am Pedro, and my passion for physics has shaped both my academic and professional journey. I completed an M.Sc. in Theoretical Physics, where I worked on the Spin Foam approach to Quantum Gravity, exploring the fundamental structure of spacetime.
 
 - Alongside theoretical research, I also contributed to applied physics, particularly in Optics. I worked in Adaptive Optics, focusing on optimizing deformable mirrors to correct atmospheric aberration, a crucial step in improving imaging quality in astronomy and other optical systems.
